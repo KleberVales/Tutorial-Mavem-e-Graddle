@@ -17,4 +17,10 @@
 
 4. Ciclo de vida de build do Maven:
    - Fases do ciclo de vida, como validate, compile, test, package, verify, install, deploy.
-   - Execução de comandos Maven (mvn compile, mvn test, mvn package, etc.). 
+   - Execução de comandos Maven (mvn compile, mvn test, mvn package, etc.).
+  
+5. Testes Automatizados:
+   - Configuração do maven-surefire-plugin para rodar testes unitários.
+   - Relatórios de testes e integração com frameworks como JUnit e TestNG.
+
+6. Plugins importantes para Java: 
