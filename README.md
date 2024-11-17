@@ -40,4 +40,16 @@
     - Importação e configuração de projetos Maven em IDEs populares como IntelliJ IDEA e Eclipse.
 
 ## Gradle 
-1. Conceitos básicos do Gradle: 
+1. Conceitos básicos do Gradle:
+   - O que é Gradle e por que ele é popular em projetos Java.
+   - Estrutura de um projeto Java usando Gradle (build.gradle, src/main/java, etc.).
+
+2. Scripts de Build:
+   - Escrever e entender scripts de build em Groovy e Kotlin DSL.
+   - Configuração básica em build.gradle.
+
+3. Gerenciamento de Dependências:
+   - Declaração de dependências em projetos Java (implementation, testImplementation).
+   - Configuração de repositórios de dependências (ex.: Maven Central).
+
+4. Tarefas no Gradle: 
