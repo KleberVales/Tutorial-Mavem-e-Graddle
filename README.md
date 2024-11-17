@@ -10,4 +10,7 @@
    - Como declarar dependências e suas versões.
    - Configuração de plugins específicos para projetos Java (ex.: maven-compiler-plugin para definir a versão do Java).
   
-3. Dependências e Gerenciamento: 
+3. Dependências e Gerenciamento:
+   - Como buscar e adicionar dependências em projetos Java.
+   - Configuração de repositórios de dependências.
+   - Gerenciamento de escopos de dependências (ex.: compile, test, provided).
