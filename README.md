@@ -52,4 +52,30 @@
    - Declaração de dependências em projetos Java (implementation, testImplementation).
    - Configuração de repositórios de dependências (ex.: Maven Central).
 
-4. Tarefas no Gradle: 
+4. Tarefas no Gradle:
+   - O que são tarefas e como criar tarefas customizadas.
+   - Comandos Gradle para compilar e executar (gradle build, gradle test).
+
+5. Plugins essenciais:
+   - java plugin para compilar e construir projetos Java.
+   - Plugins adicionais como application para criar JARs executáveis.
+
+6. Configuração de Compilação:
+   - Configuração de versões de Java em build.gradle.
+   - Uso do tasks.withType(JavaCompile) para ajustar parâmetros de compilação.
+
+7. Testes com Gradle:
+   - Configuração de testes automatizados e execução com gradle test.
+   - Relatórios de teste e integração com frameworks como JUnit.
+
+8. Criação de JAR Executável:
+   - Uso do plugin application para facilitar a execução de aplicações Java.
+   - Configuração do jar task para criar JARs com dependências.
+
+9. Build Cache e Paralelismo:
+    - Utilização do cache de build para otimizar a compilação.
+    - Configuração para builds paralelos em projetos Java grandes.
+  
+10. Integração com IDEs:
+    - Configuração e importação de projetos Gradle em IntelliJ IDEA e Eclipse.
+    - Ajustes de build e sincronização com a IDE. 
