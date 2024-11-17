@@ -40,3 +40,4 @@
     - Importação e configuração de projetos Maven em IDEs populares como IntelliJ IDEA e Eclipse.
 
 ## Gradle 
+1. Conceitos básicos do Gradle: 
