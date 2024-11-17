@@ -23,4 +23,7 @@
    - Configuração do maven-surefire-plugin para rodar testes unitários.
    - Relatórios de testes e integração com frameworks como JUnit e TestNG.
 
-6. Plugins importantes para Java: 
+6. Plugins importantes para Java:
+   - maven-compiler-plugin para configurar a versão do Java.
+   - maven-surefire-plugin para testes.
+   - maven-jar-plugin para empacotar o projeto como JAR. 
