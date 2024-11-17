@@ -26,4 +26,17 @@
 6. Plugins importantes para Java:
    - maven-compiler-plugin para configurar a versão do Java.
    - maven-surefire-plugin para testes.
-   - maven-jar-plugin para empacotar o projeto como JAR. 
+   - maven-jar-plugin para empacotar o projeto como JAR.
+
+7. Perfis de Build:
+   - Configuração de perfis para diferentes ambientes (ex.: desenvolvimento, produção).
+   - Parâmetros customizados para perfis.
+  
+8. Execução de Aplicações Java:
+   - Uso do exec-maven-plugin para executar a aplicação.
+   - Empacotamento com maven-assembly-plugin ou maven-shade-plugin para criar JARs executáveis.
+  
+9. Integração com IDEs:
+    - Importação e configuração de projetos Maven em IDEs populares como IntelliJ IDEA e Eclipse.
+
+## Gradle 
