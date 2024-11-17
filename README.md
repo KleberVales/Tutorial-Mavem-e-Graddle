@@ -14,3 +14,7 @@
    - Como buscar e adicionar dependências em projetos Java.
    - Configuração de repositórios de dependências.
    - Gerenciamento de escopos de dependências (ex.: compile, test, provided).
+
+4. Ciclo de vida de build do Maven:
+   - Fases do ciclo de vida, como validate, compile, test, package, verify, install, deploy.
+   - Execução de comandos Maven (mvn compile, mvn test, mvn package, etc.). 
